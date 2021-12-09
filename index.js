@@ -23,4 +23,4 @@ client.on('message', message => {
 });
 
 
-client.login("ODQzOTA5NTU1OTk3MTE0Mzk4.YKKuBQ.Z4nhAdhFotBJ6TeykojOcGa74xw");
+client.login("ODQzOTA5NTU1OTk3MTE0Mzk4.YKKuBQ.J7AwktifOOyxjgsDzrgXoUzDevA");
