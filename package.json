@@ -1,0 +1,41 @@
+{
+  "name": "botr6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "asynckit": "^0.4.0",
+    "axios": "^0.19.2",
+    "combined-stream": "^1.0.8",
+    "debug": "^3.1.0",
+    "delayed-stream": "^1.0.0",
+    "discord.js": "^12.5.3",
+    "event-target-shim": "^5.0.1",
+    "follow-redirects": "^1.5.10",
+    "mime-db": "^1.47.0",
+    "mime-types": "^2.1.30",
+    "ms": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "prism-media": "^1.2.9",
+    "r6statsapi": "^1.0.3",
+    "setimmediate": "^1.0.5",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.4.5",
+    "outputCapture": "std"
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/rogertheo12345678/r6bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/rogertheo12345678/r6bot/issues"
+  },
+  "homepage": "https://gitlab.com/rogertheo12345678/r6bot#readme"
+}
